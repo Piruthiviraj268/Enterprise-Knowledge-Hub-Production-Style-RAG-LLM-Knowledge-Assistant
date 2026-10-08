@@ -1,0 +1,6 @@
+[
+ {"question":"How many annual leave days do full-time employees receive?","keywords":["24","annual leave"]},
+ {"question":"How much is the annual learning budget?","keywords":["30,000","learning budget"]},
+ {"question":"How quickly must security incidents be reported?","keywords":["30 minutes","security incidents"]},
+ {"question":"How does the platform combine retrieval methods?","keywords":["TF-IDF","lexical"]}
+]
